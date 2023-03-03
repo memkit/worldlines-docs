@@ -1,25 +1,21 @@
+# worldlines
+
 ## Ideate -> Release -> Market -> Inspire
 
-### timelines-core? Vas Ist?
-
-timelines-core is the backend that powers timeline.
-
-### timelines? Huh?
-
-timelines is a tool to help securely store intellectual property.
+worldlines is a tool to help securely store intellectual property.
 
 ### ELI25
 
 key concepts
 
-- timelines
+- worldlines
   - a historical, mintable, metaunit of IP 
 - mems
-  - artifacts from points in time that compose a timeline
+  - artifacts from points in time that compose a worldine
 - assemblies
   - groups of cryptofrens merging to compose teh future
 - telos
-  - the main reason for the assembly 
+  - metadata showing the main reason for the assembly. because 'why?' is such an important question to meet head on...
 
 key workings/values
 
