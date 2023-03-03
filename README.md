@@ -71,7 +71,10 @@ mems:
 - party photos
 - discussions on philosophy, technology and the future
 - mind maps
-- art
-- event 
+- generative art
+
+Needs:
+
+- The ability to release what they want, when they want -- together
 
 
